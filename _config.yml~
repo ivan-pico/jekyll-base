@@ -1,0 +1,12 @@
+# Site settings
+title: Ivan Pico
+email: hello@ivanpico.com
+description: > # this means to ignore newlines until "baseurl:"
+  "The greatest enemy of knowledge is not ignorance, it is the illusionof knoeledge.", Stephen Hawking
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://ivanpico.com" # the base hostname & protocol for your site
+twitter_username: ivanpico_
+github_username:  ivan-pico
+
+# Build settings
+markdown: kramdown
