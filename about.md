@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a big fan of nature, mountain, snow and a mobility enthusiast as well. My hobbies and my work go hand in hand so I enjoy programming and designing new apps. In addition, I enjoy new projects, teamwork and learning new skills.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm interested in projects aimed at helping people and improving their quality of life so I've published some apps in order to share my interest in health and natural environment.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Fortunately, I've taken part in some start-up company and I've got the chance to set up some projects from scratch. Although it was a challenging task it allowed me to develop problem-solving skills.
