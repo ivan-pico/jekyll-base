@@ -9,3 +9,9 @@ I'm a big fan of nature, mountain, snow and a mobility enthusiast as well. My ho
 I'm interested in projects aimed at helping people and improving their quality of life so I've published some apps in order to share my interest in health and natural environment.
 
 Fortunately, I've taken part in some start-up company and I've got the chance to set up some projects from scratch. Although it was a challenging task it allowed me to develop problem-solving skills.
+
+Web site powered by:
+https://www.staticgen.com/
+https://jekyllrb.com
+https://github.com/Shopify/liquid
+https://daringfireball.net/projects/markdown

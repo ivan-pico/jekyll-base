@@ -1,8 +1,8 @@
 # Site settings
 title: Ivan Pico Martin
 email: hello@ivanpico.com
-description: > # this means to ignore newlines until "baseurl:"
-  "The greatest enemy of knowledge is not ignorance, it is the illusion of knoeledge.", Stephen Hawking
+description: > # this means to ignore this newline
+  "The greatest enemy of knowledge is not ignorance, it is the illusion of knoeledge." (Stephen Hawking)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://ivanpico.com" # the base hostname & protocol for your site
 twitter_username: _ivanpico
