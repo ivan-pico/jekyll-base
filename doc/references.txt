@@ -1,4 +1,7 @@
 
+Templates website
+https://www.staticgen.com/
+
 https://jekyllrb.comhttps://jekyllrb.com//
 https://github.com/Shopify/liquid/wiki
 https://daringfireball.net/projects/markdown/basics
