@@ -1,18 +1,10 @@
-
-
 ---
-
 layout: post
 title:  "Agile Methodology?"
-
-date:   2018-11-11 18:15:26
-
-abstract: This is a strange day, it is the first Pi Day without Larry Shaw and Stephen Hawking but their heritage will remain with us.
+date:   2018-11-06 18:15:26
+abstract: Las metodologías agiles son muy variadas y se aplican en muchos tipos de proyectos, y no sólo en proyectos IT.
 categories: Agile Methodology work 
-
 ---
-
-
 
 Existen otros campos en que se aplican metodologías ágiles fuera del ámbito del desarrollo del software y lo hacen de forma efectiva y espontánea. 
 
