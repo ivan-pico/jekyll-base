@@ -3,7 +3,7 @@ layout: post
 title:  "AI Health Care"
 date:   2019-05-24 12:39:06
 abstract: Lo que más valoran los pacientes es el tiempo que le dedica el personal médico a su atención pero la realidad es que el personal que trabaja en salut sólo 4 de cada 10 interactúa con los pacient.
-categories: AI hosital pacientes gesti?n mejora calidad vida inteligencia artificial
+categories: AI hosital pacientes gestion mejora calidad vida inteligencia artificial
 ---
 Lo que más valoran los pacientes es el tiempo que le dedica el personal médico a su atención pero la realidad es que el personal que trabaja en salut sólo 4 de cada 10 interactúa con los pacientes y éstos les dedica menos de tres horas cada jornada, el resto de tiempo lo emplean en tareas administrativas.
 
